@@ -1,13 +1,18 @@
 {
-  "users": [
+  "dogs": [
     {
-      "id": 1000,
-      "name": "Chandra",
-      "age": 25,
+      "id": 1,
+      "name": "Cherry",
+      "age": 2,
       "place": "Visakhapatnam",
-      "batch_name": "WEB-21",
-      "profession": "FSD"
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
     }
- 
   ]
 }
